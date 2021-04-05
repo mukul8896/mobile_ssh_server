@@ -6,6 +6,4 @@
 ######      pkg install git
 ######      git clone https://github.com/mukul8896/mobile_ssh_server.git
 ######      cd mobile_ssh_server
-######      chmod 777 termux_server.sh
-######      ./termux_ssh_server_setup.sh
-
+######      chmod termux_ssh_server.sh
